@@ -13,3 +13,4 @@ C:\Users\Josh\source\repos\SpaceSex\SpaceSex\obj\Debug\SpaceSex.pdb
 C:\Users\Josh\source\repos\SpaceSex\SpaceSex\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Josh\source\repos\SpaceSex\SpaceSex\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Josh\source\repos\SpaceSex\SpaceSex\obj\Debug\SpaceSex.MainFRM.resources
+
